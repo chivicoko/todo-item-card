@@ -244,5 +244,3 @@ This submission intentionally keeps the solution as a **single highly testable H
 * clean state management
 * frontend fundamentals
 * UI craftsmanship
-
-The implementation is designed to feel like a **small app-like component** rather than a static card, matching the Stage 1a goal precisely.
